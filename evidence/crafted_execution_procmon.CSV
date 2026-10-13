@@ -1,0 +1,2 @@
+﻿"Time of Day","Process Name","PID","Operation","Path","Result","Detail"
+"11:35:32.5935114 PM","python.exe","47328","Process Create","C:\WINDOWS\SYSTEM32\calc.exe","SUCCESS","PID: 33248, Command line: calc.exe"
